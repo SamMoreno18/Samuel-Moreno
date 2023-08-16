@@ -2,9 +2,9 @@
 ![image](https://github.com/Luiss11/Luiss/assets/135871576/e3e2107f-294e-4e3b-bbe0-c8cb6247a892)
 # ¡Hola! 👋
 
-¡Soy Luis, un estudiante apasionado de la programación y el desarrollo de software! Me encanta aprender nuevas tecnologías y explorar diferentes áreas de la programación para crear soluciones innovadoras.
+¡Soy Samuel, un estudiante apasionado de la programación y mantenimiento de Hardware! Me encanta aprender nuevas tecnologías y estar al pendiente cada actualizacioin en el campo de Software.
 
-![Programación](https://ejemplo.com/imagen-programacion.png)
+
 
 ## Educación
 
@@ -13,16 +13,16 @@
 
 ## Habilidades
 
-- Lenguajes de programación: PYTON.
+- Lenguajes de programación: PYTON, C++.
 - Tecnologías y frameworks: En Dessarrollo.
 - Control de versiones: Git.
-- Bases de datos: En Dessarrollo.
-- Metodologías ágiles: No cuento con experiencia.
+- Bases de datos: Aprendiendo en MYSQL.
 
 ## Proyectos Destacados
 
-- Jeopardy: Elaboracion del famoso juego de preguntas con interfaz grafica en Pyton
-
+- Jeopardy: Genere un codigo que nos permite jugar este juego de preguntas, con interfaz grafica incluida.
+- Sensor de temperatura: Usando las herramientas de Arduino y los intepretadores de Python
+- Sistema de Gestion de alumnos: Creamos un codigo en C++ para desarrollar una aplicacion de gestion de Alumnos basandome en los principos de la programacion   orientada a objetos
 ## Intereses
 
 - [Áreas de Interés]: Protección de la información personal: La ciberseguridad se centra en proteger la información confidencial y personal, como datos bancarios, información de identidad y datos de salud. Al tener conocimientos en ciberseguridad, puedes aprender a proteger tus propios datos y mantener tu información personal segura.
@@ -38,8 +38,5 @@ Impacto social y global: La ciberseguridad es un factor clave en la estabilidad 
 
 ## Contacto
 
-- Email: Simental84@outlook.es
-- LinkedIn: En proceso.
+- Email: samuel.moreno.isw@unipolidgo.edu.mx
 
-¡Me encantaría conectarme y colaborar en proyectos emocionantes! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
-Me gustaria ser aprendiz de algun experto en progrmaccion, que me ayudara a mejorar!!!!
