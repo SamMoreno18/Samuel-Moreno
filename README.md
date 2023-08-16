@@ -13,7 +13,7 @@
 
 ## Habilidades
 
-- Lenguajes de programación: PYTON, C++.
+- Lenguajes de programación: Python, C++.
 - Tecnologías y frameworks: En Dessarrollo.
 - Control de versiones: Git.
 - Bases de datos: Aprendiendo en MYSQL.
